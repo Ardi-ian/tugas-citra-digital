@@ -11,7 +11,7 @@ Membuktikan bahwa citra digital adalah susunan angka menggunakan Python.
 ## Cara menjalankan
 Klik tombol di bawah untuk membuka di Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/tugas-citra-digital/blob/main/citra-digital.ipynb)
+
 
 ## Penulis
 Nama: Muhamad Nurardiansyah NIM: 24260053
