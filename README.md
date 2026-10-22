@@ -9,7 +9,7 @@ Membuktikan bahwa citra digital adalah susunan angka menggunakan Python.
 - Metadata dasar dan EXIF
 
 ## Cara menjalankan
-Klik tombol di bawah untuk membuka di Google Colab.
+Klik tugas_citra_digital.ipynb
 
 
 
